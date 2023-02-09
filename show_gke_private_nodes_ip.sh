@@ -6,6 +6,7 @@
 #This script will use the kubectl get nodes command to retrieve the names 
 #of all nodes in the cluster, and then loop through the names to retrieve 
 #the internal IP address of each node using the kubectl describe node command. 
+
 #The internal IP addresses are displayed alongside the node names.
 
 # Get the names of all nodes in the cluster
