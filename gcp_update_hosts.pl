@@ -19,7 +19,7 @@ use strict;
 #}
 
 #change your bash profile name and/or location
-my $profile = "~/.bash_profile";
+my $profile = "~/.zprofile";
 
 #After running the script you need to load your profile again. 
 #You can do this with > source your_bash_profile_location 
